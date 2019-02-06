@@ -19,3 +19,5 @@
 [GnuPG](https://gnupg.org/) PGP/GPG
 
 [lisp](https://en.wikipedia.org/wiki/Lisp) 可编程的编程语言
+
+[awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) 别人家的宝盒
