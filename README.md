@@ -20,4 +20,8 @@
 
 [lisp](https://en.wikipedia.org/wiki/Lisp) 可编程的编程语言
 
+[zerotier](https://www.zerotier.com/) 可组自家的虚拟以太网
+
+[couchdrop](https://couchdrop.io/) 怕是最好的云存储,使用 SCP/SFTP/Rsync 同步
+
 [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) 别人家的宝盒
