@@ -4,7 +4,7 @@
 
 [ZFS](https://open-zfs.org/) 未来的文件系统
 
-[ShionKeys](https://ipfs.infura.io/ipfs/QmZm1zqUz44xF8fJAJJjUwmsuTbWQCJLQLscpGivviqgHX/)谜团一样的键盘
+[ShionKeys](https://bit.do/keyboards)谜团一样的键盘
 
 [trojan](https://github.com/trojan-gfw/trojan) 厉害的木马
 
@@ -22,6 +22,8 @@
 
 [zerotier](https://www.zerotier.com/) 可组自家的虚拟以太网
 
+[MultiPath TCP](https://multipath-tcp.org/) 将TCP扩展成多拨
+
 [couchdrop](https://couchdrop.io/) 怕是最好的云存储,使用 SCP/SFTP/Rsync 同步
 
 [PWCT](http://doublesvsoop.sourceforge.net/) 没有代码技术的编程
@@ -29,3 +31,6 @@
 [argo](https://developers.cloudflare.com/argo-tunnel/) cf家的内网穿透
 
 [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) 别人家的宝盒
+
+[uMatrix](https://github.com/gorhill/uMatrix/) 浏览器的防火墙
+
