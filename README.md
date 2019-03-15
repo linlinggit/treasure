@@ -34,3 +34,4 @@
 
 [uMatrix](https://github.com/gorhill/uMatrix/) 浏览器的防火墙
 
+[jsproxy](https://github.com/EtherDream/jsproxy) 将钓鱼技术用在了正途系列,牛逼
