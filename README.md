@@ -36,4 +36,8 @@
 
 [jsproxy](https://github.com/EtherDream/jsproxy) 将钓鱼技术用在了正途系列,牛逼
 
-[rambox](http://rambox.pro/) 将专有im集成到一个平台
+[rambox](http://rambox.pro/) [franz](https://meetfranz.com/) 将专有im集成到一个平台
+
+[996.ICU](https://github.com/996icu/996.ICU) 拒绝996
+
+[Aweigh](https://www.aweigh.io/) 不依赖卫星的GPS系统
