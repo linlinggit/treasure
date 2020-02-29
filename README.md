@@ -41,3 +41,5 @@
 [996.ICU](https://github.com/996icu/996.ICU) 拒绝996
 
 [Aweigh](https://www.aweigh.io/) 不依赖卫星的GPS系统
+
+[smartdns](https://github.com/pymumu/smartdns) 优秀的dns服务器
